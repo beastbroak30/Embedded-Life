@@ -1,2 +1,2 @@
 # Embedded-Life
-Something about c ,BareMetal ,stm32 ,books and life advices
+Something about C ,BareMetal ,stm32 ,books and life advices
