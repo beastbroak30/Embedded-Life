@@ -1,0 +1,9 @@
+c is lang 
+syntax very different, python elif , here we else if 
+var
+operators ,arithmetic 
+conditional statement 
+switch case
+
+DAY 2 
+LOOP control ............................
