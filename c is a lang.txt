@@ -7,3 +7,7 @@ switch case
 
 DAY 2 
 LOOP control ............................
+Prime no //thats it 
+
+DAY 3
+Functions user in c...
