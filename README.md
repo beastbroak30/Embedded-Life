@@ -3,6 +3,10 @@
 
 This repository provides essential resources for learning **bare-metal programming** on STM32 microcontrollers. Bare-metal programming involves writing code directly for the hardware without using high-level abstractions like HAL or RTOS.  
 
+## The learning path covers and updates 
+<img src="roadmap.png" alt="Learning Path" width="600">
+
+
 ## 📌 What You'll Learn  
 - Understanding **STM32 architecture** and **Cortex-M** core.  
 - Writing **low-level firmware** using **register-level programming**.  
@@ -16,7 +20,11 @@ This repository provides essential resources for learning **bare-metal programmi
 - Sample projects with **Makefile & CMake** setup.  
 - Toolchain setup for **ARM GCC, OpenOCD, and ST-Link**.  
 
+## Links
+[Guide to Bare-metal programming](https://github.com/cpq/bare-metal-programming-guide)
+
 ## 🚀 Getting Started  
+### Learn the C language most importantly
 1. Set up **ARM GCC toolchain**.  
 2. Write a **startup file & linker script**.  
 3. Configure **system clock & vector table**.  
