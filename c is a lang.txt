@@ -1,13 +1,23 @@
 c is lang 
 syntax very different, python elif , here we else if 
-var
+
+DAY 1
+var define
 operators ,arithmetic 
 conditional statement 
 switch case
 
 DAY 2 
 LOOP control ............................
-Prime no //thats it 
+Prime no
+Triangle (did in Day 3)//thats it 
 
 DAY 3
+bitwise operation
+swap using XOR
 Functions user in c...
+Storage class specifier 
+
+DAY 4
+
+
