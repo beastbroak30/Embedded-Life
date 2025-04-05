@@ -1,5 +1,5 @@
 # Embedded-Life
-# NOTE‼️‼️ This repository will continue to grow and update accordingly to the beastbroaks or mine learning (2025) 
+# NOTE‼️‼️ This repository will continue to grow and update accordingly to the beastbroaks or my learning (2025) 
 
 This repository provides essential resources for learning **bare-metal programming** on STM32 microcontrollers. Bare-metal programming involves writing code directly for the hardware without using high-level abstractions like HAL or RTOS.  
 
