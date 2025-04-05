@@ -22,6 +22,7 @@ This repository provides essential resources for learning **bare-metal programmi
 
 ## Links
 - [Guide to Bare-metal programming](https://github.com/cpq/bare-metal-programming-guide)
+- [Learn C interactive](https://www.learn-c.org/)
 
 ## 🚀 Getting Started  
 ### Learn the C language most importantly
