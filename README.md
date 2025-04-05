@@ -21,7 +21,7 @@ This repository provides essential resources for learning **bare-metal programmi
 - Toolchain setup for **ARM GCC, OpenOCD, and ST-Link**.  
 
 ## Links
-[Guide to Bare-metal programming](https://github.com/cpq/bare-metal-programming-guide)
+- [Guide to Bare-metal programming](https://github.com/cpq/bare-metal-programming-guide)
 
 ## 🚀 Getting Started  
 ### Learn the C language most importantly
